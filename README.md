@@ -187,8 +187,6 @@ Gilberto Fabián Correa González: https://drive.google.com/drive/folders/1kzr3N
 ## Video demostrativo de Funcionalidad
 
 
-## Código del Proyecto
-Gilberto Fabián Correa González: 
 
 
 
