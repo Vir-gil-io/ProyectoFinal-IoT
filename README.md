@@ -185,7 +185,7 @@ Josué Alejandro Esparza Padilla: https://drive.google.com/file/d/1-nsTV0iryaN9t
 Gilberto Fabián Correa González: https://drive.google.com/drive/folders/1kzr3NfpPYH7GMNnTBrtTDboUlttILUpK?usp=sharing
 
 ## Video demostrativo de Funcionalidad
-
+https://github.com/user-attachments/assets/344dd0d4-f285-46c9-9620-870c82d8f39a
 
 
 
