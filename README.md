@@ -219,7 +219,6 @@ https://drive.google.com/drive/folders/1Tjwxtl1StbOPr3UWwXfeIbDp3UYEBbZY?usp=sha
 Josué Alejandro Esparza Padilla:
 Examen 1:
 <img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="100"/>
-|MATRIZ DE LEDS|<img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENQ6honfL0WvZ0XYN-WbPz7JrYpkudmQFYg&s" />
 ![image](https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7)
 Examen 2:
 ![image](https://github.com/user-attachments/assets/a2683086-4414-45df-bd01-2248c13d30e4)
