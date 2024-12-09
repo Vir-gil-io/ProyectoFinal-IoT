@@ -8,8 +8,9 @@ El proyecto consiste en un modelo basado en el diseño de la casa poseída en la
 3. Dibujar un patrón en la MATRIZ DE LEDS que simule un copo de nieve que cambia de color al ritmo de la melodía del buzzer.
 4. Detección de luminosidad por medio del sensor de luz con FOTORRESISTENCIA.
 5. Encendido de una tira de 60 leds RGB con colores cambiantes cuando el sensor de luz detecte una baja luminosidad, además su total apagado cuando el sensor detecta cierto nivel de luz.
-6. Movimiento constante de un SERVOMOTOR en el brazo de la casa a fomra de saludo.
-7. Impresión de una animación constante de nieve en la pantalla OLED, junto con el mensaje predeterminado "Feliz Navidad". Además de esto, se incluye una conexión a NodeRed que permite la funcionalidad de imprimir mensajes a la pantalla desde cualquier dispositivo conectado al tópico del proyecto.
+6. Movimiento constante de un SERVOMOTOR en el brazo de la casa a forma de saludo.
+7. Impresión de una animación constante de nieve en la pantalla OLED, junto con el mensaje predeterminado "Feliz Navidad".
+8. Conexión a NodeRed que permite la funcionalidad de imprimir mensajes a la pantalla desde cualquier dispositivo conectado al tópico del proyecto.
 ## Componentes
 |Material|Imagen|Cantidad|Costo (Apox.)|
 |--|--|--|--|
