@@ -67,15 +67,15 @@ Examen 1: <br>
 Examen 2: <br>
 <img src="https://drive.google.com/uc?export=view&id=19nDoMcx16OmnDF78oq5TOhjSFCUsn_Ql" width="600"/><br>
 Examen 3: <br>
-<img src="https://drive.google.com/uc?export=view&id=1bjfXxiHTjouzkbq8VM9RFQA5pNFdZVQL" width="550"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1bjfXxiHTjouzkbq8VM9RFQA5pNFdZVQL" width="600"/><br>
 Examen 4: <br>
-<img src="" width="550"/><br>
+<img src="" width="600"/><br>
 Examen 5: <br>
-<img src="" width="550"/><br>
+<img src="" width="600"/><br>
 Examen 6: <br>
-<img src="" width="550"/><br>
+<img src="" width="600"/><br>
 Examen Final: <br>
-<img src="" width="550"/><br>
+<img src="" width="600"/><br>
 
 ## Video demostrativo de Funcionalidad
 https://github.com/user-attachments/assets/737599c1-ea05-44d1-b729-f50ec611af93
