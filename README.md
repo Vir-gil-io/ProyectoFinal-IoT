@@ -51,21 +51,32 @@ Examen 2: <br>
 Examen 3: <br>
 <img src="https://github.com/user-attachments/assets/c200709d-51d4-4b44-ba5d-3cf41ec843b4" width="550"/><br>
 Examen 4: <br>
-<img src="" width="550"/><br>
-![image](https://github.com/user-attachments/assets/6c420b05-a3cf-49f8-8714-d1b23dd93b0e)
+<img src="https://github.com/user-attachments/assets/6c420b05-a3cf-49f8-8714-d1b23dd93b0e" width="550"/><br>
 Examen 5: <br>
-<img src="" width="550"/><br>
-![image](https://github.com/user-attachments/assets/407b6e25-0c22-4c96-b445-50efd119e2c7)
+<img src="https://github.com/user-attachments/assets/407b6e25-0c22-4c96-b445-50efd119e2c7" width="550"/><br>
 Examen 6: <br>
-<img src="" width="550"/><br>
-![image](https://github.com/user-attachments/assets/b765fa1e-4ce4-4cc9-be2b-f09690e51353)
+<img src="https://github.com/user-attachments/assets/b765fa1e-4ce4-4cc9-be2b-f09690e51353" width="550"/><br>
 Examen Final: <br>
-<img src="" width="550"/><br>
-![image](https://github.com/user-attachments/assets/a95c4a27-210c-45be-8a6d-96b70bfa6397)
+<img src="https://github.com/user-attachments/assets/a95c4a27-210c-45be-8a6d-96b70bfa6397" width="550"/><br>
 
 
 
-Gilberto Fabián Correa González: https://drive.google.com/drive/folders/1kzr3NfpPYH7GMNnTBrtTDboUlttILUpK?usp=sharing
+Gilberto Fabián Correa González: https:
+//drive.google.com/drive/folders/1kzr3NfpPYH7GMNnTBrtTDboUlttILUpK?usp=sharing
+Examen 1: <br>
+<img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="550"/><br>
+Examen 2: <br>
+<img src="https://github.com/user-attachments/assets/a2683086-4414-45df-bd01-2248c13d30e4" width="550"/><br>
+Examen 3: <br>
+<img src="https://github.com/user-attachments/assets/c200709d-51d4-4b44-ba5d-3cf41ec843b4" width="550"/><br>
+Examen 4: <br>
+<img src="https://github.com/user-attachments/assets/6c420b05-a3cf-49f8-8714-d1b23dd93b0e" width="550"/><br>
+Examen 5: <br>
+<img src="https://github.com/user-attachments/assets/407b6e25-0c22-4c96-b445-50efd119e2c7" width="550"/><br>
+Examen 6: <br>
+<img src="https://github.com/user-attachments/assets/b765fa1e-4ce4-4cc9-be2b-f09690e51353" width="550"/><br>
+Examen Final: <br>
+<img src="https://github.com/user-attachments/assets/a95c4a27-210c-45be-8a6d-96b70bfa6397" width="550"/><br>
 
 ## Video demostrativo de Funcionalidad
 https://github.com/user-attachments/assets/737599c1-ea05-44d1-b729-f50ec611af93
