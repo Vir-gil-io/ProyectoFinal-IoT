@@ -65,9 +65,9 @@ Gilberto Fabián Correa González: <br>
 Examen 1: <br>
 <img src="https://drive.google.com/uc?export=view&id=12WUhjYDxUkDFf0PJhSFZBqX42xf1uJiE" width="600"/><br>
 Examen 2: <br>
-<img src="https://drive.google.com/uc?export=view&id=19nDoMcx16OmnDF78oq5TOhjSFCUsn_Ql" width="550"/><br>
+<img src="https://drive.google.com/uc?export=view&id=19nDoMcx16OmnDF78oq5TOhjSFCUsn_Ql" width="600"/><br>
 Examen 3: <br>
-<img src="" width="550"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1bjfXxiHTjouzkbq8VM9RFQA5pNFdZVQL" width="550"/><br>
 Examen 4: <br>
 <img src="" width="550"/><br>
 Examen 5: <br>
