@@ -2,7 +2,7 @@
 ## Materiales
 |Material|Imagen|Cantidad|Costo (Apox.)|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
+|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|2|120.00|
 |MATRIZ DE LEDS|<img width="100" src="https://electronicaonline.net/wp-content/uploads/2023/09/led-que-es.webp" />|2|30.00|
 |PHOTORESISTOR-SENSOR|<img width="100" src="https://alltopnotch.co.uk/wp-content/uploads/imported/4/LDR-Photoresistor-Light-Detection-Sensor-Module-Dependent-Resistor-Arduino-PIC-362145909694-3.JPG" />|1|8.00|
 |SERVO|<img width="100" src="https://www.mechatronicstore.cl/wp-content/uploads/2015/08/SKU054531.1.jpg" />|1|78.00|
