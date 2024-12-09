@@ -2,7 +2,7 @@
 
 ## Descripción
 El proyecto consiste en un modelo basado en el diseño de la casa poseída en la película "Monster House", con la diferencia de que ésta tiene ambientación en la época navideña y algunas modificaciones para que se adaptara a las funcionalidades que requeríamos.<br><br>
-__Las funciones incluyen:__ <br>
+**Las funciones incluyen:** <br>
 1. 
 ## Componentes
 |Material|Imagen|Cantidad|Costo (Apox.)|
