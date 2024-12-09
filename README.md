@@ -37,7 +37,11 @@ Primero hichimos la casa de madera, la cual incluye tres ventanas y una puerta p
 
 
 ## Enlace de TikTok
-https://vm.tiktok.com/ZMkRSn4YJ/
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/ZMkRSn4YJ/" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
 
 
 ## Evidencias del curso de JavaScript
