@@ -218,7 +218,7 @@ https://drive.google.com/drive/folders/1Tjwxtl1StbOPr3UWwXfeIbDp3UYEBbZY?usp=sha
 ## Evidencias del curso de JavaScript
 Josué Alejandro Esparza Padilla:
 Examen 1:
-<img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="100"/>
+<img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="500"/>
 ![image](https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7)
 Examen 2:
 ![image](https://github.com/user-attachments/assets/a2683086-4414-45df-bd01-2248c13d30e4)
