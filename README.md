@@ -10,7 +10,7 @@ El proyecto consiste en un modelo basado en el diseño de la casa poseída en la
 5. Encendido de una tira de 60 leds RGB con colores cambiantes cuando el sensor de luz detecte una baja luminosidad, además su total apagado cuando el sensor detecta cierto nivel de luz.
 6. Movimiento constante de un SERVOMOTOR en el brazo de la casa a forma de saludo.
 7. Impresión de una animación constante de nieve en la pantalla OLED, junto con el mensaje predeterminado "Feliz Navidad".
-8. Conexión a NodeRed que permite la funcionalidad de imprimir mensajes a la pantalla desde cualquier dispositivo conectado al tópico del proyecto.
+8. Conexión a NodeRed que permite la funcionalidad de imprimir mensajes a la pantalla desde cualquier dispositivo conectado al tópico del proyecto. <br>
 ## Componentes
 |Material|Imagen|Cantidad|Costo (Apox.)|
 |--|--|--|--|
@@ -217,20 +217,23 @@ https://drive.google.com/drive/folders/1Tjwxtl1StbOPr3UWwXfeIbDp3UYEBbZY?usp=sha
 
 ## Evidencias del curso de JavaScript
 Josué Alejandro Esparza Padilla:
-Examen 1:
-<img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="800"/>
-![image](https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7)
-Examen 2:
-![image](https://github.com/user-attachments/assets/a2683086-4414-45df-bd01-2248c13d30e4)
-Examen 3:
-![image](https://github.com/user-attachments/assets/c200709d-51d4-4b44-ba5d-3cf41ec843b4)
-Examen 4:
+Examen 1: <br>
+<img src="https://github.com/user-attachments/assets/5da97270-1a3f-4de8-87df-e510efebf8a7" width="550"/><br>
+Examen 2: <br>
+<img src="https://github.com/user-attachments/assets/a2683086-4414-45df-bd01-2248c13d30e4" width="550"/><br>
+Examen 3: <br>
+<img src="https://github.com/user-attachments/assets/c200709d-51d4-4b44-ba5d-3cf41ec843b4" width="550"/><br>
+Examen 4: <br>
+<img src="" width="550"/><br>
 ![image](https://github.com/user-attachments/assets/6c420b05-a3cf-49f8-8714-d1b23dd93b0e)
-Examen 5:
+Examen 5: <br>
+<img src="" width="550"/><br>
 ![image](https://github.com/user-attachments/assets/407b6e25-0c22-4c96-b445-50efd119e2c7)
-Examen 6:
+Examen 6: <br>
+<img src="" width="550"/><br>
 ![image](https://github.com/user-attachments/assets/b765fa1e-4ce4-4cc9-be2b-f09690e51353)
-Examen Final:
+Examen Final: <br>
+<img src="" width="550"/><br>
 ![image](https://github.com/user-attachments/assets/a95c4a27-210c-45be-8a6d-96b70bfa6397)
 
 
