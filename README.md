@@ -4,9 +4,12 @@
 El proyecto consiste en un modelo basado en el diseño de la casa poseída en la película "Monster House", con la diferencia de que ésta tiene ambientación en la época navideña y algunas modificaciones para que se adaptara a las funcionalidades que requeríamos.<br><br>
 **Las funciones incluyen:** <br>
 1. Detección de proximidad por medio del sensor HC-SR04. 
-2. Reproducción de una melodía navideña en el buzzer cuando el sensor detecte un objeto. 
-3. Dibujar un patrón en la matriz de leds que simule un copo de nieve que cambia de color al ritmo de la melodía del buzzer.
-4. 
+2. Reproducción de una melodía navideña en el BUZZER cuando el sensor detecte un objeto. 
+3. Dibujar un patrón en la MATRIZ DE LEDS que simule un copo de nieve que cambia de color al ritmo de la melodía del buzzer.
+4. Detección de luminosidad por medio del sensor de luz con FOTORRESISTENCIA.
+5. Encendido de una tira de 60 leds RGB con colores cambiantes cuando el sensor de luz detecte una baja luminosidad, además su total apagado cuando el sensor detecta cierto nivel de luz.
+6. Movimiento constante de un SERVOMOTOR en el brazo de la casa a fomra de saludo.
+7. Impresión de una animación constante de nieve en la pantalla OLED, junto con el mensaje predeterminado "Feliz Navidad". Además de esto, se incluye una conexión a NodeRed que permite la funcionalidad de imprimir mensajes a la pantalla desde cualquier dispositivo conectado al tópico del proyecto.
 ## Componentes
 |Material|Imagen|Cantidad|Costo (Apox.)|
 |--|--|--|--|
