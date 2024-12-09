@@ -1,5 +1,5 @@
 # ProyectoFinal-IoT
-## Materiales
+## Componentes
 |Material|Imagen|Cantidad|Costo (Apox.)|
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|2|120.00|
