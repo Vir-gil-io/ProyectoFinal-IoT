@@ -37,7 +37,10 @@ Primero hichimos la casa de madera, la cual incluye tres ventanas y una puerta p
 
 
 ## Enlace de TikTok
-https://vm.tiktok.com/ZMkRSn4YJ/
+<video width="640" height="360" controls>
+  <source src="https://vm.tiktok.com/ZMkRSn4YJ/" type="video/mp4">
+</video>
+
 
 ## Evidencias del Proyecto
 https://drive.google.com/drive/folders/1Tjwxtl1StbOPr3UWwXfeIbDp3UYEBbZY?usp=sharing
