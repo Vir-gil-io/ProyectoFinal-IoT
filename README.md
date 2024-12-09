@@ -69,7 +69,7 @@ Examen 2: <br>
 Examen 3: <br>
 <img src="https://drive.google.com/uc?export=view&id=1bjfXxiHTjouzkbq8VM9RFQA5pNFdZVQL" width="600"/><br>
 Examen 4: <br>
-<img src="" width="600"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1fOt4Uwr8uoMsutGRm5m7W5LZ_DGqqbbl" width="600"/><br>
 Examen 5: <br>
 <img src="" width="600"/><br>
 Examen 6: <br>
