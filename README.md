@@ -71,11 +71,11 @@ Examen 3: <br>
 Examen 4: <br>
 <img src="https://drive.google.com/uc?export=view&id=1fOt4Uwr8uoMsutGRm5m7W5LZ_DGqqbbl" width="600"/><br>
 Examen 5: <br>
-<img src="" width="600"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1wM3V1rU13bAt7MIWaLJbFAAIVPtgXYx1" width="600"/><br>
 Examen 6: <br>
-<img src="" width="600"/><br>
+<img src="https://drive.google.com/uc?export=view&id=15c3RvXZReFKK9xcu5lmwhCNCNGklf-O7" width="600"/><br>
 Examen Final: <br>
-<img src="" width="600"/><br>
+<img src="https://drive.google.com/uc?export=view&id=1BjOYC6k1JFxT0HGbeOXb923ly_6fi8zD" width="600"/><br>
 
 ## Video demostrativo de Funcionalidad
 https://github.com/user-attachments/assets/737599c1-ea05-44d1-b729-f50ec611af93
