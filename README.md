@@ -25,15 +25,15 @@ El proyecto consiste en un modelo basado en el diseño de la casa poseída en la
 
 ## Proceso de elaboración
 Primero hichimos la casa de madera, la cual incluye tres ventanas y una puerta pequeña para que salgas los cables para conectar, después la pintamos y la decoramos versión navideña, armamos el circuito junto con el código y después pegamos todo a la casa para terminarla.<br>
-<img src="https://github.com/user-attachments/assets/a9ada43b-938f-43a4-bbc6-c2b4211389e4" width="550"/><br>
+<img src="https://github.com/user-attachments/assets/a9ada43b-938f-43a4-bbc6-c2b4211389e4" width="550"/>
 <img src="https://github.com/user-attachments/assets/3863b20d-4752-4b90-89ab-2b255c8dd7e2" width="550"/><br>
-<img src="https://github.com/user-attachments/assets/b04141e2-7062-4e5a-9e24-0ed135707653" width="550"/><br>
+<img src="https://github.com/user-attachments/assets/b04141e2-7062-4e5a-9e24-0ed135707653" width="550"/>
 <img src="https://github.com/user-attachments/assets/57ef6eba-ade8-4aee-939b-e54b4c24a7bd" width="550"/><br>
-<img src="https://github.com/user-attachments/assets/04575e6f-0b8a-46b1-840c-7f93d16de928" width="550"/><br>
+<img src="https://github.com/user-attachments/assets/04575e6f-0b8a-46b1-840c-7f93d16de928" width="550"/>
 <img src="https://github.com/user-attachments/assets/6260603a-795d-48e5-ad2c-83b39100fc32" width="550"/><br>
-<img src="https://github.com/user-attachments/assets/443133ad-8f39-4f9f-8f45-e820b37f0bee" width="550"/><br>
+<img src="https://github.com/user-attachments/assets/443133ad-8f39-4f9f-8f45-e820b37f0bee" width="550"/>
 <img src="https://github.com/user-attachments/assets/e82845fe-bc71-4f57-961e-da0b0451dc31" width="550"/><br>
-<img src="https://github.com/user-attachments/assets/b05af0de-ecad-446a-be21-67fee278accb" width="550"/><br>
+<img src="https://github.com/user-attachments/assets/b05af0de-ecad-446a-be21-67fee278accb" width="550"/>
 
 
 ## Enlace de TikTok
