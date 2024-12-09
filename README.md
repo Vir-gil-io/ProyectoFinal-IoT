@@ -7,7 +7,7 @@
 |PHOTORESISTOR-SENSOR|<img width="100" src="https://alltopnotch.co.uk/wp-content/uploads/imported/4/LDR-Photoresistor-Light-Detection-Sensor-Module-Dependent-Resistor-Arduino-PIC-362145909694-3.JPG" />|1|8.00|
 |SERVO|<img width="100" src="https://www.mechatronicstore.cl/wp-content/uploads/2015/08/SKU054531.1.jpg" />|1|78.00|
 |BUZZER|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShCbOeHSNx-_OkSdgj1kg3Fn8wKLCkxekNg&s" width="100"/>|1|120.00|
-|HC-SR04|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
+|HC-SR04|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RhY2WCVB4WZCBySU1FR5KF-Ds7ZyQlg03A&s" width="100"/>|1|120.00|
 |OLED|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
 
 ## Proceso de elaboramiento
