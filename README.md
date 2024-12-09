@@ -1,7 +1,7 @@
 # ProyectoFinal-IoT
 
 ## Descripción
-El proyecto consiste en un modelo basado en el diseño de la casa poseída en la película "Monster House", con la diferencia de que ésta tiene ambientación en la época navideña y algunas modificaciones para que se adaptara a las funcionalidades que requeríamos.<br><br>
+El proyecto consiste en un modelo basado en el diseño de la casa poseída en la película "Monster House", con la diferencia de que ésta tiene ambientación en la época navideña y algunas modificaciones para que se adaptara a las funcionalidades requeridas.<br><br>
 **Las funciones incluyen:** <br>
 1. Detección de proximidad por medio del sensor HC-SR04. 
 2. Reproducción de una melodía navideña en el BUZZER cuando el sensor detecte un objeto. 
